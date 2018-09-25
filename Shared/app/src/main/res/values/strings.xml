@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Shared</string>
+    <string name="znach">Значение</string>
+    <string name="key">Ключ</string>
+    <string name="add">Добавить</string>
+    <string name="check">Проверить</string>
+    <string name="del">Удалить</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="info">
+        <item>@string/skill1</item>
+        <item>@string/skill2</item>
+        <item>@string/skill3</item>
+        <item>@string/skill4</item>
+    </array>
+</resources>

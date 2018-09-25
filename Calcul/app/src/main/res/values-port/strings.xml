@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Calcul</string>
+    <string name="initA">Введите А</string>
+    <string name="initB">Введите B</string>
+    <string name="author">Об авторе</string>
+    <string name="my_txt">Портретная ориентация</string>
+    <string name="FIO">Уланов Евгений Юрьевич</string>
+    <string name="e_mail">Jenya8@list.ru</string>
+    <string name="info">Обо мне:</string>
+    <string name="skill1">Учусь на программиста</string>
+    <string name="skill2">Изучаю Java и разработку под Android</string>
+    <string name="skill3">Есть опыт в разработке на C#</string>
+    <string name="skill4">Раньше занимался web-дизайном</string>
+</resources>

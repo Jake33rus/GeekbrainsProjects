@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Beauty Style</string>
+    <string name="logo">Логотип</string>
+    <string name="name_salon">Салон красоты \n \"СТИЛЬ\"</string>
+    <string name="s_hair">Волосы</string>
+    <string name="s_nails">Ногти</string>
+    <string name="address">Адрес</string>
+</resources>

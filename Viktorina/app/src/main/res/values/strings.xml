@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Viktorina</string>
+    <string name = "greeting" > Здравствуйте, Вас приветствует викторина: В мире животных </string>
+    <string name="question1" >Верно ли что, в среднем курица откладывает 190 яиц в год?</string>
+    <string name="question2" >Верно ли что, у золотой рыбки память 3 секунды?</string>
+    <string name="question3" >Верно ли что, верблюд может обходиться без воды дольше, чем жираф?</string>
+    <string name="question4" >Верно ли что, Дельфины спят с закрытыми глазами?</string>
+    <string name="question5" >Верно ли что, Самки тли рождаются беременными?</string>
+    <string name="b_true">Верно</string>
+    <string name="b_false">Не верно</string>
+    <string name="res_true">Вы ответили правильно :)</string>
+    <string name="res_false">К сожалению, Вы ошиблись :(</string>
+    <string name="nextQuestion">Следующий вопрос --></string>
+    <string name="final_v">Поздравляем, Вы прошли викторину!</string>
+</resources>

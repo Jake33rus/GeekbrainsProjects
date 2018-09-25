@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1"
+    android:baselineAligned="false"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="15dp">
+        <EditText
+        android:layout_width="0dp"
+            android:layout_weight="2"
+        android:layout_height="52dp"
+        android:inputType="number"
+        android:hint="@string/initA"
+        android:paddingLeft="20dp"
+            android:id="@+id/editText3"
+            android:gravity="center_horizontal"
+            />
+
+        <EditText
+        android:layout_width="0dp"
+            android:layout_weight="2"
+        android:layout_height="52dp"
+        android:id="@+id/editText"
+            android:inputType="number"
+        android:hint="@string/initB"
+        android:paddingLeft="20dp"
+            android:gravity="center_horizontal"/>
+
+        <TextView
+            android:text="Ответ:"
+            android:layout_width="0dp"
+            android:layout_weight="6"
+            android:layout_height="32dp"
+            android:id="@+id/textView2"
+            android:textSize="18sp"
+            android:gravity="center_horizontal"
+
+             />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="117dp"
+        android:orientation="horizontal"
+        >
+
+        <Button
+            android:text="+"
+            android:layout_width="wrap_content"
+            android:layout_height="75dp"
+            android:layout_marginTop="25dp"
+            android:id="@+id/button2"
+            />
+
+        <Button
+            android:text="-"
+            android:layout_width="wrap_content"
+            android:layout_height="75dp"
+            android:layout_marginTop="25dp"
+            android:id="@+id/button4"
+
+            />
+
+        <Button
+            android:text="/"
+            android:layout_width="wrap_content"
+            android:layout_height="75dp"
+            android:layout_marginTop="25dp"
+            android:id="@+id/button3"
+           />
+
+        <Button
+            android:text="*"
+            android:layout_width="wrap_content"
+            android:layout_height="75dp"
+            android:layout_marginTop="25dp"
+            android:id="@+id/button"/>
+        <Button
+            android:text="="
+            android:id="@+id/button5"
+            android:layout_width="240dp"
+            android:layout_height="75dp"
+            android:layout_marginTop="25dp"
+             />
+    </LinearLayout>
+
+    <Button
+        android:text="@string/author"
+        android:layout_width="wrap_content"
+        android:layout_height="70dp"
+        android:id="@+id/button6"/>
+</LinearLayout>

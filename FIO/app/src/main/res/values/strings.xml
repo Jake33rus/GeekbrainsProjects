@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">A1_L03_ActivitiesAndIntents</string>
+    <string name="input_hint">Enter text here</string>
+    <string name="open_activity">Open another activity</string>
+    <string name="open_url">Open URL</string>
+</resources>
+
+
